@@ -15,10 +15,12 @@ this app is very useful for currency conversions and could be used either throug
 * see POSTMAN-CONFIG.jpg
 
 ## 3. Resources
-[publicly available service for currency exchange](https://www.exchangerate-api.com/docs/pair-conversion-requests)
-[ rich command line interface](https://picocli.info/)
-[Gson serialization and deserialization](https://github.com/google/gson)
-[Spring initializer](https://start.spring.io/)
+
+  1. [publicly available service for currency exchange](https://www.exchangerate-api.com/docs/pair-conversion-requests)
+  2. [ rich command line interface](https://picocli.info/)
+  3. [Gson serialization and deserialization](https://github.com/google/gson)
+  4. [Spring initializer](https://start.spring.io/)
+
 
 ## answers on  open discussion questions
 *  parsing too big input file ( 2 TB) input file consume alot of resources and it could break the app 
