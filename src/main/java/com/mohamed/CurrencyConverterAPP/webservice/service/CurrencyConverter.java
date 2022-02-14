@@ -8,7 +8,7 @@ import java.net.URL;
 
 import com.google.gson.Gson;
 import com.mohamed.CurrencyConverterAPP.cli.ConversionEntry;
-import com.mohamed.CurrencyConverterAPP.webservice.entity.ConversionResponseModel;
+import com.mohamed.CurrencyConverterAPP.webservice.models.ConversionResponseModel;
 import org.springframework.stereotype.Service;
 
 @Service

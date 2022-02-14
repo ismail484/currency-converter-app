@@ -2,7 +2,7 @@ package com.mohamed.CurrencyConverterAPP.webservice.resource;
 
 import com.mohamed.CurrencyConverterAPP.cli.ConversionEntry;
 import com.mohamed.CurrencyConverterAPP.webservice.service.CurrencyConverter;
-import com.mohamed.CurrencyConverterAPP.webservice.entity.ConversionResponse;
+import com.mohamed.CurrencyConverterAPP.webservice.models.ConversionResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

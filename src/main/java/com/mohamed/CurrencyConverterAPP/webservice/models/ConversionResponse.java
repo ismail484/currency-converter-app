@@ -1,4 +1,4 @@
-package com.mohamed.CurrencyConverterAPP.webservice.entity;
+package com.mohamed.CurrencyConverterAPP.webservice.models;
 
 import com.google.gson.annotations.SerializedName;
 
